@@ -79,8 +79,8 @@ We'd love to discuss how we can help transform your business through technology!
 - **Website**: [passivech.com](http://passivech.com)
 - **LinkedIn**: [Passivech Technologies](https://www.linkedin.com/company/passivech/)
 - **Email**: [passivech@gmail.com](mailto:passivech@gmail.com)
-- **Phone**: [+1 (XXX) XXX-XXXX]
 
+  
 ## 🤝 Let's Collaborate
 
 Interested in working with us? We're just a click away.
